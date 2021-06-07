@@ -1,7 +1,7 @@
 package com.company;
 
 public class App {
-//    Main Method
+//  Main Method
     public static void main(String[] args) {
         CharacterBase farmerobj1 = new Farmer("Adams");
         System.out.println(farmerobj1);

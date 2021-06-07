@@ -1,7 +1,7 @@
 package com.IcecreamCompany;
 
 import java.util.Objects;
-//Design IceCream Shop Class
+// Design IceCream Shop Class
 public class IceCreamShop {
 
     private String cupConeType;

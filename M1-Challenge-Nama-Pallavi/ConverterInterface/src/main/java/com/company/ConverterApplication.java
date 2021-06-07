@@ -1,7 +1,7 @@
 package com.company;
 
 public class ConverterApplication {
-//Main Method
+// Main Method
     public static void main(String[] args){
         String monthName;
         String dayName;
