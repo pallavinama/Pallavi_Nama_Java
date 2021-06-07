@@ -1,7 +1,7 @@
 package com.company;
 
 import java.util.Objects;
-
+//Customer Class Design to Implement Composition
 public class Customer {
         private String firstName;
         private String lastName;

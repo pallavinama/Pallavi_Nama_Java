@@ -1,7 +1,7 @@
 package com.company;
 
 import java.util.Objects;
-
+//Address Class Design to Implement Composition
 public class Address {
         private String street1;
         private String street2;

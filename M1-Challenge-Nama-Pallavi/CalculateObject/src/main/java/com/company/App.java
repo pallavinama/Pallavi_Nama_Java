@@ -1,6 +1,7 @@
 package com.company;
 
 public class App {
+//    Main Method
     public static void main(String[] args){
         Calculator calc = new Calculator();
 

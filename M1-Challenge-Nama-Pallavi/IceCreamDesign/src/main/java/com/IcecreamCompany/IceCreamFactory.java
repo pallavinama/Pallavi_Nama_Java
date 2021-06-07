@@ -1,7 +1,7 @@
 package com.IcecreamCompany;
 
 import java.util.Objects;
-
+//Design IceCream Factory Class
 public class IceCreamFactory {
     private String ingredient;
     private double containerSize;
